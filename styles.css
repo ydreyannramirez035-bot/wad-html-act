@@ -1,0 +1,27 @@
+body {
+    background-color: beige;
+    justify-content: center;
+    height: 100vh;
+    margin: 1in;
+}
+
+.h1 {
+    background-color: burlywood;
+    padding: 12px 14px;
+    border-color: chocolate;
+    border-radius: 12px;
+    font-size: 50px;
+    color: chocolate;
+    text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 2in; 
+  height: 2in;
+  padding: 8px 10px;
+  background-color: burlywood;
+
+}
